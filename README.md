@@ -1,7 +1,7 @@
 # Match-Making-Game
 Simple match making game made to understand object oriented programming
 
-Must download pygame to be able to use. 
+Must download pygame and Python to be able to use. 
 
 Instructions:
 Two game modes - One Player and Two Player
